@@ -1,6 +1,7 @@
 # **Validate Code**
 
 Valida o verifica el **código de un producto** con las siguientes reglas:
+
  `Debe comenzar con exactamente 3 letras o números (\w).`
  
  `Luego debe tener un guion medio -.`
