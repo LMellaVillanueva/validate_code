@@ -2,9 +2,13 @@
 
 Valida o verifica el **código de un producto** con las siguientes reglas:
  `Debe comenzar con exactamente 3 letras o números (\w).`
+ 
  `Luego debe tener un guion medio -.`
+ 
  `Después del guion debe haber exactamente 4 dígitos (\d).`
+ 
  `No puede tener más caracteres.`
+ 
  `Debes usar regex y obligatoriamente usar \w y \d.`
 
 ---
